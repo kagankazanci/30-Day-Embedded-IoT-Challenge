@@ -65,6 +65,7 @@ void loop() {
 
     // Transition back to Green
     digitalWrite(LED_YELLOW, HIGH);
+    digitalWrite(LED_RED, LOW);
     delay(1000);
   }
 }
