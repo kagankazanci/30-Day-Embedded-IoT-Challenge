@@ -14,7 +14,7 @@ From **May 16, 2026, to June 14, 2026**, I am building and documenting a new har
 | **01** | [🚦 Smart Traffic Light](./Day-01-Smart-Traffic-Light) | GPIO Control & Button Logic | 🟢 Completed |
 | **02** | [🌡️ Digital Thermometer](./Day-02-Digital-Thermometer) | DHT22 & Serial Communication | 🟢 Completed |
 | **03** | [📟 OLED Weather Station](./Day-03-OLED-Weather-Station) | I2C Protocol & SH1106 Display | 🟢 Completed |
-| **04** | 📏 Proximity Parking Sensor | HC-SR04 & Active Buzzer | ⏳ Next |
+| **04** | [📏 Visual Proximity Radar](./Day-04-Visual-Proximity-Radar) | HC-SR04 & SH1106 Display | ⏳ Next |
 | **05** | ⚙️ Servo Angular Control | PWM Architecture | ⏳ Next |
 | **06** | 🌐 Wi-Fi Web Server LED | SoftAP (Access Point) | ⏳ Next |
 | **07** | ⏰ Internet Clock (NTP) | Wi-Fi & UDP Protocol | ⏳ Next |
