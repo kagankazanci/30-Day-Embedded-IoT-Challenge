@@ -12,7 +12,7 @@ An advanced brightness control system that utilizes ESP32's updated PWM (LEDC) a
 
  Component  Pin  ESP32 Pin  Description 
  ---  ---  ---  --- 
- LED  Anode (+)  GPIO 4 (or 2)  PWM Output (Use a resistor) 
+ LED  Anode (+)  GPIO 2 PWM Output
  LED  Cathode (-)  GND  Ground 
  SH1106 OLED  VCC  3.3V  Display Power 
  SH1106 OLED  GND  GND  Ground 
