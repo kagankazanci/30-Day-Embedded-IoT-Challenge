@@ -23,7 +23,19 @@ A simple and clean car-dashboard-style parking assistant system built with ESP32
 | **SH1106 OLED**| SDA | GPIO 21 | I2C Data Line |
 | **SH1106 OLED**| SCL | GPIO 22 | I2C Clock Line |
 
+## 📸 Working Demo
+<div align="center">
+  <img src="./assets/working_demo.gif" width="400" style="border-radius: 10px;" alt="OLED Demo">
+  <p><i>The OLED display showing dynamic Temperature and Humidity readings.</i></p>
+</div>
+
 ## 🚀 How to Run
 1. Install `Adafruit_GFX` and `Adafruit_SH110X` libraries via the Arduino Library Manager.
 2. Wire up the hardware according to the configuration matrix above.
 3. Flash the code to your ESP32 board.
+
+## 💻 Source Code
+<details>
+<summary>Click to view code</summary>
+
+```cpp
