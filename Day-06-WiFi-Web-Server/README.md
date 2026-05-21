@@ -22,7 +22,6 @@ An interactive local IoT project that configures the ESP32 as an Access Point (S
 ## 📸 Working Demo
 <div align="center">
   <img src="./assets/working_demo.gif" width="400" style="border-radius: 10px;" alt="OLED Demo">
-  <p><i>The OLED display showing dynamic Temperature and Humidity readings.</i></p>
 </div>
 
 ## 💻 Source Code
