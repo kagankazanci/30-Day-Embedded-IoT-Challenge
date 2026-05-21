@@ -22,7 +22,6 @@ An advanced brightness control system that utilizes ESP32's updated PWM (LEDC) a
 ## 📸 Working Demo
 <div align="center">
   <img src="./assets/working_demo.gif" width="400" style="border-radius: 10px;" alt="OLED Demo">
-  <p><i>The OLED display showing dynamic Temperature and Humidity readings.</i></p>
 </div>
 
 ## 💻 Source Code
