@@ -26,7 +26,6 @@ A simple and clean car-dashboard-style parking assistant system built with ESP32
 ## 📸 Working Demo
 <div align="center">
   <img src="./assets/working_demo.gif" width="400" style="border-radius: 10px;" alt="OLED Demo">
-  <p><i>The OLED display showing dynamic Temperature and Humidity readings.</i></p>
 </div>
 
 ## 🚀 How to Run
