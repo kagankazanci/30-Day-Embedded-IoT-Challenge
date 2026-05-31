@@ -17,7 +17,7 @@ From **May 16, 2026, to June 14, 2026**, I am building and documenting a new har
 | **04** | [📏 Visual Proximity Radar](./Day-04-Visual-Proximity-Radar) | HC-SR04 & SH1106 Display | 🟢 Completed |
 | **05** | [💡 OLED LED Dimmer](./Day-05-OLED-LED-Dimmer) | ESP32 LEDC & PWM Architecture | 🟢 Completed |
 | **06** | [🌐 Wi-Fi Web Server LED](./Day-06-WiFi-Web-Server) | SoftAP (Access Point) | 🟢 Completed |
-| **07** | [⏰ Internet Clock (NTP)](./Day-07-Internet-Clock) | Wi-Fi & UDP Protocol | a |
+| **07** | [⏰ Internet Clock (NTP)](./Day-07-Internet-Clock) | Wi-Fi & UDP Protocol | 🟢 Completed |
 | **08** | ☁️ Global Weather Fetcher | JSON & OpenWeather API | ⏳ Next |
 | **09** | 💾 Firebase Data Logger | Google Firebase & NoSQL | ⏳ Next |
 | **10** | 📱 Blynk Mobile Dashboard | Virtual Pins & IoT App | ⏳ Next |
