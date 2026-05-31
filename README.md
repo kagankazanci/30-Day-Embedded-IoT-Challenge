@@ -1,9 +1,11 @@
-# 🛠️ 30-Day Embedded Systems & IoT Challenge
+# 🚀 ESP32 Boot Camp: 7 Days of Hardware & IoT
 
-Welcome to my 30-day firmware engineering and IoT discipline marathon! This repository serves as concrete proof of my consistency, problem-solving skills, and technical growth in embedded systems.
+A concentrated 7-day engineering challenge focused on building, optimizing, and documenting embedded systems. This repository tracks my progression from native hardware registers and sensor protocols up to wireless networking and localized cloud nodes using the **ESP32** platform.
+
+---
 
 ## 🎯 The Goal
-From **May 16, 2026, to May 22, 2026**, I built and documented a new hardware/software project every single day, scaling from basic microcontroller architecture to advanced internet-connected nodes using the **ESP32** platform.
+From **May 16, 2026, to May 22, 2026**, I built and documented a new hardware/software project every single day, scaling from basic microcontroller architecture to advanced internet-connected nodes.
 
 ---
 
@@ -18,6 +20,3 @@ From **May 16, 2026, to May 22, 2026**, I built and documented a new hardware/so
 | **05** | [💡 OLED LED Dimmer](./Day-05-OLED-LED-Dimmer) | ESP32 LEDC & PWM Architecture | 🟢 Completed |
 | **06** | [🌐 Wi-Fi Web Server LED](./Day-06-WiFi-Web-Server) | SoftAP (Access Point) | 🟢 Completed |
 | **07** | [⏰ Internet Clock (NTP)](./Day-07-Internet-Clock) | Wi-Fi & UDP Protocol | 🟢 Completed |
-
----
-*Follow my journey as I push updates every day by midnight!*
